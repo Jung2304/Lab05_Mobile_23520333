@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "FitnessTracker",
+    "slug": "fitness-expo",
+    "version": "1.0.0",
+    "platforms": ["ios", "android"],
+    "sdkVersion": "49.0.0",
+    "orientation": "portrait",
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"],
+    "android": { "package": "com.example.fitnessexpo" }
+  }
+}
