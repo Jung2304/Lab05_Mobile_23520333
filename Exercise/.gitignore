@@ -1,0 +1,60 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / Expo
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+.expo/
+.expo-shared/
+
+# Android
+/gradle/
+/.gradle/
+build/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.keystore
+*.jks
+
+# Keep the Gradle wrapper JAR tracked if present
+!gradle/wrapper/gradle-wrapper.jar
+
+# Java / Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# IDEs
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.Python
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment files
+.env
+.env.*
+
+# Misc
+dist/
+tmp/
+temp/
